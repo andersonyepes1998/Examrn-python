@@ -1,2 +1,2 @@
-# Examrn-python
+# Examen-python
 Examen primer momento...
